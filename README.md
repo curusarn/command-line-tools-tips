@@ -18,7 +18,7 @@ Python: TODO
 ## Minimize the number of dependencies
 
 Do you plan to distribute your tool outside of standard package management? If so then the fewer dependencies the better. 
-Can you bundle something with the tool instead of depending on it? Do it (at least as a fallback).
+Can you bundle something with the tool instead of depending on it? Consider doing so.
 
 Choose the right language for the job; Go compiles into statically linked binaries without dependencies. In contrast, bash has little builtin functionality and relies on various programs that might not be available on all systems.
 
