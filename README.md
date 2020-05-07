@@ -33,3 +33,12 @@ In many terminal themes the contrast is insufficient which results in unreadable
 For example, check out the color tool for material design: https://material.io/resources/color/#!/?view.left=1&view.right=0&primary.color=64DD17
 
 Example of tool that breaks this tip is `tig`.
+
+
+## Read something about how keybindings in terminals work 
+
+If you are making a teminal application (think ncurses) read this: [Terminals Are Weird](http://catern.com/posts/terminal_quirks.html)
+
+## Read something about how stdout buffering works
+
+Read this for extra credit: [Stdout Buffering](https://eklitzke.org/stdout-buffering)
