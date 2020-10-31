@@ -14,7 +14,7 @@ Writing and maintianing this is not fun and takes time. Luckily there are librar
 
 
 Go: https://github.com/spf13/cobra  
-Python: TODO
+Python: https://docs.python.org/3/library/argparse.html
 
 ## Minimize the number of dependencies
 
